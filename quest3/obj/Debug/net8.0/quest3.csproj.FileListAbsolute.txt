@@ -1,0 +1,14 @@
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.AssemblyInfoInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.AssemblyInfo.cs
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest3\bin\Debug\net8.0\quest3.exe
+C:\Users\Gabriel\ListaCsharp\quest3\bin\Debug\net8.0\quest3.deps.json
+C:\Users\Gabriel\ListaCsharp\quest3\bin\Debug\net8.0\quest3.runtimeconfig.json
+C:\Users\Gabriel\ListaCsharp\quest3\bin\Debug\net8.0\quest3.dll
+C:\Users\Gabriel\ListaCsharp\quest3\bin\Debug\net8.0\quest3.pdb
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.dll
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\refint\quest3.dll
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.pdb
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\quest3.genruntimeconfig.cache
+C:\Users\Gabriel\ListaCsharp\quest3\obj\Debug\net8.0\ref\quest3.dll

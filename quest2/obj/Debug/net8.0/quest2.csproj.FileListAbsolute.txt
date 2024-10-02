@@ -1,0 +1,14 @@
+C:\Users\Gabriel\ListaCsharp\quest2\bin\Debug\net8.0\quest2.exe
+C:\Users\Gabriel\ListaCsharp\quest2\bin\Debug\net8.0\quest2.deps.json
+C:\Users\Gabriel\ListaCsharp\quest2\bin\Debug\net8.0\quest2.runtimeconfig.json
+C:\Users\Gabriel\ListaCsharp\quest2\bin\Debug\net8.0\quest2.dll
+C:\Users\Gabriel\ListaCsharp\quest2\bin\Debug\net8.0\quest2.pdb
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.AssemblyInfo.cs
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.dll
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\refint\quest2.dll
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.pdb
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\quest2.genruntimeconfig.cache
+C:\Users\Gabriel\ListaCsharp\quest2\obj\Debug\net8.0\ref\quest2.dll
