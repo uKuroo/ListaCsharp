@@ -1,0 +1,15 @@
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.AssemblyInfoInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.AssemblyInfo.cs
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.sourcelink.json
+C:\Users\Gabriel\ListaCsharp\quest4\bin\Debug\net8.0\quest4.exe
+C:\Users\Gabriel\ListaCsharp\quest4\bin\Debug\net8.0\quest4.deps.json
+C:\Users\Gabriel\ListaCsharp\quest4\bin\Debug\net8.0\quest4.runtimeconfig.json
+C:\Users\Gabriel\ListaCsharp\quest4\bin\Debug\net8.0\quest4.dll
+C:\Users\Gabriel\ListaCsharp\quest4\bin\Debug\net8.0\quest4.pdb
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.dll
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\refint\quest4.dll
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.pdb
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\quest4.genruntimeconfig.cache
+C:\Users\Gabriel\ListaCsharp\quest4\obj\Debug\net8.0\ref\quest4.dll
